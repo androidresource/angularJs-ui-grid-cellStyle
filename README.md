@@ -1,0 +1,1 @@
+# angularJs-ui-grid-cellStyle
