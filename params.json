@@ -1,0 +1,6 @@
+{
+  "name": "Angularjs-ui-grid-cellstyle",
+  "tagline": "",
+  "body": " angularJs-ui-grid-cellStyle\r\n====================================================\r\n主要解决修改表格布局的单元格cell的样式问题，此demo可以实现动态改变样式，同样可以参考官方例子，在css文件中写好class，调用cellClass: function(grid, row, col, rowRenderIndex, colRenderIndex) 来改变样式，[官方demo链接:http://ui-grid.info/docs/#/tutorial/111_cellClass](http://ui-grid.info/docs/#/tutorial/111_cellClass)\r\n\r\n__[本站源码链接:https://github.com/androidresource/angularJs-ui-grid-cellStyle/](https://github.com/androidresource/angularJs-ui-grid-cellStyle/)__\r\n###效果图\r\n--------------------------------------------------------------------------------------------\r\n![preview](preview.png)\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
