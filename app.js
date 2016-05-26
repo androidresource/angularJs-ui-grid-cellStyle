@@ -4,9 +4,7 @@ app.controller('MainCtrl', ['$scope', '$http', function ($scope, $http) {
   $scope.gridOptions = {
     enableSorting: true,
     columnDefs: [
-      { field: 'name', cellClass:'red' ,
-        cellTemplate:'<div type="button" class="btnClass">{{row.entity.name}}</div>'
-      },
+      { field: 'name', cellClass:'red'},
       { name:'company',
         field:'compny',
         cellTemplate: '<div style="color:{{row.entity.color}};text-align: center;"  >{{row.entity.company}}</div> '
