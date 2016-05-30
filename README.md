@@ -5,5 +5,5 @@
 __[本站源码链接:https://github.com/androidresource/angularJs-ui-grid-cellStyle/](https://github.com/androidresource/angularJs-ui-grid-cellStyle/)__
 ###效果图
 --------------------------------------------------------------------------------------------
-![image](https://github.com/androidresource/angularJs-ui-grid-cellStyle/preview.png)
-![image](https://github.com/androidresource/angularJs-ui-grid-cellStyle/preview1.gif)
+![image](https://github.com/androidresource/angularJs-ui-grid-cellStyle/blob/master/preview.png)
+![image](https://github.com/androidresource/angularJs-ui-grid-cellStyle/blob/master/preview1.gif)
